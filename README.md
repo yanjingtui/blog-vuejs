@@ -31,14 +31,14 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:3000
+
 node server
 ```
 
 ## Build Setup for microsoft SSO
 ``` bash
 npm install
-
+# serve with hot reload at localhost:3000
 npm start
 ```
 
