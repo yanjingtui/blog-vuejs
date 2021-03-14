@@ -26,16 +26,21 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 ## Build Setup for server
+
+``` bash
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:3000
 node server
+```
 
 ## Build Setup for microsoft SSO
+``` bash
 npm install
 
 npm start
+```
 
 ## Project not finish. Back-end APIs need to fill in. Admin editor need to write. Merge microsoft SSO in front end.
 ## 3.5 days of work and took times to learn Vue.JS and reviews NodeJs and MongoDB.
